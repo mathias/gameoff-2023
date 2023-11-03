@@ -1,5 +1,7 @@
 # untitled GameOff 2023 game jam entry
 
+Created for the https://itch.io/jam/game-off-2023
+
 Created by Matt Gauger matt.gauger@gmail.com
 
 ## License
