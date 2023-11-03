@@ -3,12 +3,6 @@ use comfy::*;
 simple_game!("Sprite Example", setup, update);
 
 fn setup(c: &mut EngineContext) {
-    c.load_texture_from_bytes(
-        // Name of our sprite
-        "comfy",
-        // &[u8] with the image data.
-        include_bytes!("assets/comfy.png")
-    );
     let mut camera = main_camera_mut();
     camera.zoom = 40.0;
 }
