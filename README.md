@@ -1,6 +1,6 @@
 # untitled GameOff 2023 game jam entry
 
-Created for the https://itch.io/jam/game-off-2023
+For the https://itch.io/jam/game-off-2023 -- Theme: **scale**.
 
 Created by Matt Gauger matt.gauger@gmail.com
 
